@@ -6,6 +6,8 @@
 
 
 		<title>Full of myself </title>
+		<!- CSS Reference goes here ->
+		<link type="text/css" href="CSS/style.css" rel="stylesheet" />
 	</head>
 	<body>
 		<header>
@@ -42,9 +44,17 @@
 			</p>
 			<img src="image/images.jpg" alt="Me" />
 
+			<h1>Turn Ons:</h1>
+
+			<p>Water Falls</p>
+			<img src="image/Falls.JPG" alt="Me" />
+			
+			
 			<h1>Turn Offs:</h1>
 
-			<h3>Facebook</h3>
+			<p>
+				I absolutely do NOT like Social Media
+			</p>
 			<h4>Facebook Zucks!</h4>
 			<img src="image/love-china-love-tank.jpg" alt="Me" />
 
@@ -54,6 +64,13 @@
 			</p>
 			<img src="image/Ben-Jerrys.jpg" alt="Me" />
 
+			<ul>
+				<li>Cherry Garcia</li>
+				<li>Cookie & Cream</li>
+				<li>Chocolate</li>
+				<li>French Vanilla</li>
+			</ul>
+
 			<p>
 				Sampling at Tillamook Cheese Factor
 			</p>
@@ -61,34 +78,13 @@
 
 
 			<ul>
-				<li>item 1</li>
-				<li>item 2</li>
-				<li>item 3</li>
-				<li>item 4</li>
+				<li>Cheddar</li>
+				<li>Swiss</li>
+				<li>American</li>
+				<li>Provolone</li>
 			</ul>
-			<ol>
-				<li>item 1</li>
-				<li>item 2</li>
-				<li>item 3</li>
-				<li>item 4</li>
-			</ol>
-			<div>
-				<a href="https://cracked.com" target="_blank">go to cracked.com</a>
-			</div>
-			
-			<table>
-				<tr>
-					<td>
-						table cell 1
-					</td>
-					<td>table cell 2
-					</td>
-				</tr>
-				<tr>
-					<td>table cell 3</td>
-					<td>table cell 4</td>
-				</tr>
-			</table>
+
+
 		</main>
 
 		
